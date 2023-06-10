@@ -7,7 +7,7 @@
 
 ---
 
-This project is a React Native application built with TypeScript and Expo Managed Workflow to add and remove attendees from an event's attendance list. The app was developed in Ignite, on Rocketseat's React Native training, aiming to understand core React concepts and React Native fundamentals, as well as Expo, components, states, immutability, hooks, lists, rendering, and more.
+This project is a **React Native** application built with **TypeScript** and **Expo Managed Workflow** to add and remove participants from an event's presence list. The app was developed in **Ignite**, [**Rocketseat**](https://github.com/rocketseat-education) React Native training, aiming to understand core React concepts and React Native fundamentals, as well as Expo, components, states, immutability, hooks, lists, rendering, and more.
 
 ## Some instructions to run this project
 
